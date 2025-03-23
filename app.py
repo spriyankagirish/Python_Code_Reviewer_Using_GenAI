@@ -1,7 +1,7 @@
 import streamlit as st
 import google.generativeai as ai
 
-ai.configure(api_key="AIzaSyBbMEdqAlm4rs_1BQS8MHVBqBUtMTyZgV8")
+ai.configure(api_key="")
 
 sys_prompt = """You are an AI Code Reviewer specializing in Python programming. Your task is to analyze Python code, detect potential bugs, syntax errors, logical mistakes, inefficiencies, and best practice violations, and provide clear and actionable fixes with explanations."""
 
