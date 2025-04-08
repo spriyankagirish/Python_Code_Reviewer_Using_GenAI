@@ -1,6 +1,5 @@
 
-```markdown
-# 🧠 Python Code Reviewer using Gemini Pro + Streamlit
+# 🧠Python Code Reviewer using Gemini Pro + Streamlit
 
 This is a Streamlit web app that leverages Google's **Gemini 1.5 Pro** (via `google.generativeai`) to provide automated Python code reviews.
 
@@ -82,7 +81,7 @@ Then open `http://localhost:8501` in your browser.
 ---
 
 ## 🖼️ Screenshot
+![image](https://github.com/user-attachments/assets/b39dbced-037d-434a-929b-8e848815e9a4)
 
-![App Screenshot](![image](https://github.com/user-attachments/assets/168082e9-b5cf-47e3-bc7e-9f1a3400251c)
-)
+
 
